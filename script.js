@@ -35,8 +35,8 @@ window.onload=function() { if (document.getElementById) {
         rats.style.backgroundColor="transparent";
         rats.style.visibility="hidden";
         rats.style.zIndex="999";
-        var rlef=createDiv(1, 5);
-        var rdow=createDiv(5, 1);
+        var rlef=createDiv(7, 7);
+        var rdow=createDiv(7, 7);
         rats.appendChild(rlef);
         rats.appendChild(rdow);
         rlef.style.top="2px";
