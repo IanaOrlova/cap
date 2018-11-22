@@ -1,0 +1,43 @@
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+ul{
+    padding-left: 0;
+    text-align: center;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    padding: 0 27px;
+}
+
+body{
+    background: black;
+    height: 100vh;
+    overflow: hidden;
+
+}
+.text{
+    padding-top: 250px;
+    max-width: 850px;
+    margin: 0 auto;
+    text-align: center;
+}
+.contacts{
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p{
+    color: white;
+}
+
+.text p{
+    font-size: 50px;
+}
+
+.contacts p{
+    font-size: 30px;
+}
